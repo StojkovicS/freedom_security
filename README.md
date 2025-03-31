@@ -1,2 +1,2 @@
 # freedom_security
-Visualizing whether countries prefer freedom or security more
+Visualizing whether countries prefer freedom or security
