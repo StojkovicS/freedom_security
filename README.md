@@ -1,4 +1,4 @@
-# freedom_security
+# Freedom or Security
 Visualizing whether countries prefer freedom or security
 
 Here I use World Value Survey dataset Wave 7 (WV7) to plot what countries citizens prefer more when confronted with the choice: security or freedom.
